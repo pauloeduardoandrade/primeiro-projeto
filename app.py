@@ -11,6 +11,7 @@ media = (nota1 + nota2) / 2
 
 # Saída
 print(f"\nAluno: {nome}")
+print("a")
 print(f"Média: {media:.2f}")
 
 if media >= 6:
