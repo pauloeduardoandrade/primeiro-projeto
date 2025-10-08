@@ -8,7 +8,7 @@ nota2 = float(input("Digite a segunda nota: "))
 
 # Processamento
 media = (nota1 + nota2) / 2
-
+a
 # Saída
 print(f"\nAluno: {nome}")
 print(f"Média: {media:.2f}")
